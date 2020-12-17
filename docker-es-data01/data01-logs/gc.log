@@ -1,0 +1,1418 @@
+[2019-06-24T14:07:40.521+0000][1][gc] Using Concurrent Mark Sweep
+[2019-06-24T14:07:40.521+0000][1][gc,heap,coops] Heap address: 0x00000000f0000000, size: 256 MB, Compressed Oops mode: 32-bit
+[2019-06-24T14:07:40.725+0000][1][safepoint    ] Entering safepoint region: EnableBiasedLocking
+[2019-06-24T14:07:40.725+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:40.725+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0042313 seconds, Stopping threads took: 0.0041161 seconds
+[2019-06-24T14:07:40.761+0000][1][safepoint    ] Application time: 0.0159513 seconds
+[2019-06-24T14:07:40.784+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:40.784+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:40.784+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0232721 seconds, Stopping threads took: 0.0231781 seconds
+[2019-06-24T14:07:40.798+0000][1][safepoint    ] Application time: 0.0133706 seconds
+[2019-06-24T14:07:40.798+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:40.798+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:40.798+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000744 seconds, Stopping threads took: 0.0000155 seconds
+[2019-06-24T14:07:41.066+0000][1][safepoint    ] Application time: 0.2678497 seconds
+[2019-06-24T14:07:41.073+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:41.073+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:41.073+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001696 seconds, Stopping threads took: 0.0000496 seconds
+[2019-06-24T14:07:41.151+0000][1][safepoint    ] Application time: 0.0771759 seconds
+[2019-06-24T14:07:41.151+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:41.151+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:41.151+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001818 seconds, Stopping threads took: 0.0000699 seconds
+[2019-06-24T14:07:41.991+0000][1][safepoint    ] Application time: 0.8397590 seconds
+[2019-06-24T14:07:41.991+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:41.991+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:41.991+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002323 seconds, Stopping threads took: 0.0000457 seconds
+[2019-06-24T14:07:42.058+0000][1][safepoint    ] Application time: 0.0673208 seconds
+[2019-06-24T14:07:42.058+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:42.058+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:42.058+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002205 seconds, Stopping threads took: 0.0000460 seconds
+[2019-06-24T14:07:42.093+0000][1][safepoint    ] Application time: 0.0343541 seconds
+[2019-06-24T14:07:42.093+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:42.093+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:42.093+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002141 seconds, Stopping threads took: 0.0000648 seconds
+[2019-06-24T14:07:42.829+0000][1][safepoint    ] Application time: 0.7356701 seconds
+[2019-06-24T14:07:42.829+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:42.829+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:42.829+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002809 seconds, Stopping threads took: 0.0000175 seconds
+[2019-06-24T14:07:43.124+0000][1][safepoint    ] Application time: 0.2946247 seconds
+[2019-06-24T14:07:43.124+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.124+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.124+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002165 seconds, Stopping threads took: 0.0000857 seconds
+[2019-06-24T14:07:43.243+0000][1][safepoint    ] Application time: 0.1194847 seconds
+[2019-06-24T14:07:43.243+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:43.244+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.244+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001988 seconds, Stopping threads took: 0.0000150 seconds
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Application time: 0.1281745 seconds
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002383 seconds, Stopping threads took: 0.0000136 seconds
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Application time: 0.0001289 seconds
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.372+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001685 seconds, Stopping threads took: 0.0000102 seconds
+[2019-06-24T14:07:43.390+0000][1][safepoint    ] Application time: 0.0177596 seconds
+[2019-06-24T14:07:43.390+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:43.390+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.390+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001568 seconds, Stopping threads took: 0.0000201 seconds
+[2019-06-24T14:07:43.400+0000][1][safepoint    ] Application time: 0.0094826 seconds
+[2019-06-24T14:07:43.400+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:43.400+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.400+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002189 seconds, Stopping threads took: 0.0000212 seconds
+[2019-06-24T14:07:43.407+0000][1][safepoint    ] Application time: 0.0070881 seconds
+[2019-06-24T14:07:43.407+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.407+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.407+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000982 seconds, Stopping threads took: 0.0000494 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Application time: 0.0002037 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000563 seconds, Stopping threads took: 0.0000246 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Application time: 0.0000889 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000463 seconds, Stopping threads took: 0.0000227 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Application time: 0.0000648 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000459 seconds, Stopping threads took: 0.0000221 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Application time: 0.0001543 seconds
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.408+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000466 seconds, Stopping threads took: 0.0000226 seconds
+[2019-06-24T14:07:43.410+0000][1][safepoint    ] Application time: 0.0020680 seconds
+[2019-06-24T14:07:43.410+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.410+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.410+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000960 seconds, Stopping threads took: 0.0000701 seconds
+[2019-06-24T14:07:43.508+0000][1][safepoint    ] Application time: 0.0977886 seconds
+[2019-06-24T14:07:43.508+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:43.508+0000][1][gc,start     ] GC(0) Pause Young (Allocation Failure)
+[2019-06-24T14:07:43.509+0000][1][gc,task      ] GC(0) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:43.520+0000][1][gc,age       ] GC(0) Desired survivor size 4456448 bytes, new threshold 1 (max threshold 6)
+[2019-06-24T14:07:43.520+0000][1][gc,age       ] GC(0) Age table with threshold 1 (max threshold 6)
+[2019-06-24T14:07:43.520+0000][1][gc,age       ] GC(0) - age   1:    8070024 bytes,    8070024 total
+[2019-06-24T14:07:43.520+0000][1][gc,heap      ] GC(0) ParNew: 69952K->7990K(78656K)
+[2019-06-24T14:07:43.520+0000][1][gc,heap      ] GC(0) CMS: 0K->0K(174784K)
+[2019-06-24T14:07:43.520+0000][1][gc,metaspace ] GC(0) Metaspace: 11959K->11959K(1060864K)
+[2019-06-24T14:07:43.520+0000][1][gc           ] GC(0) Pause Young (Allocation Failure) 68M->7M(247M) 11.821ms
+[2019-06-24T14:07:43.520+0000][1][gc,cpu       ] GC(0) User=0.05s Sys=0.00s Real=0.01s
+[2019-06-24T14:07:43.520+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.520+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0119663 seconds, Stopping threads took: 0.0000292 seconds
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Application time: 0.0005862 seconds
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001893 seconds, Stopping threads took: 0.0001238 seconds
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Application time: 0.0000495 seconds
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001136 seconds, Stopping threads took: 0.0000660 seconds
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Application time: 0.0000964 seconds
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.521+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001479 seconds, Stopping threads took: 0.0001079 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000402 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000786 seconds, Stopping threads took: 0.0000429 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000717 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000610 seconds, Stopping threads took: 0.0000348 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000390 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000375 seconds, Stopping threads took: 0.0000136 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000406 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000293 seconds, Stopping threads took: 0.0000065 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000341 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000284 seconds, Stopping threads took: 0.0000063 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000507 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000611 seconds, Stopping threads took: 0.0000351 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000459 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000623 seconds, Stopping threads took: 0.0000246 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000855 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000567 seconds, Stopping threads took: 0.0000309 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Application time: 0.0000382 seconds
+[2019-06-24T14:07:43.522+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000503 seconds, Stopping threads took: 0.0000295 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000416 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000490 seconds, Stopping threads took: 0.0000278 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000375 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000572 seconds, Stopping threads took: 0.0000283 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000625 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000484 seconds, Stopping threads took: 0.0000272 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000449 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000577 seconds, Stopping threads took: 0.0000300 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000408 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000656 seconds, Stopping threads took: 0.0000442 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000367 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000826 seconds, Stopping threads took: 0.0000572 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000400 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000521 seconds, Stopping threads took: 0.0000283 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Application time: 0.0000350 seconds
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.523+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000569 seconds, Stopping threads took: 0.0000363 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Application time: 0.0001062 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000650 seconds, Stopping threads took: 0.0000325 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Application time: 0.0000442 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000860 seconds, Stopping threads took: 0.0000498 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Application time: 0.0000438 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000704 seconds, Stopping threads took: 0.0000449 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Application time: 0.0000342 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000623 seconds, Stopping threads took: 0.0000384 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Application time: 0.0002477 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000585 seconds, Stopping threads took: 0.0000362 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Application time: 0.0000320 seconds
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.524+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000619 seconds, Stopping threads took: 0.0000407 seconds
+[2019-06-24T14:07:43.717+0000][1][safepoint    ] Application time: 0.1925387 seconds
+[2019-06-24T14:07:43.717+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:43.717+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.717+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003943 seconds, Stopping threads took: 0.0000168 seconds
+[2019-06-24T14:07:43.840+0000][1][safepoint    ] Application time: 0.1222946 seconds
+[2019-06-24T14:07:43.840+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.840+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.840+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001388 seconds, Stopping threads took: 0.0000433 seconds
+[2019-06-24T14:07:43.976+0000][1][safepoint    ] Application time: 0.1362999 seconds
+[2019-06-24T14:07:43.976+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:43.976+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:43.976+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001056 seconds, Stopping threads took: 0.0000236 seconds
+[2019-06-24T14:07:44.013+0000][1][safepoint    ] Application time: 0.0361725 seconds
+[2019-06-24T14:07:44.013+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:44.013+0000][1][gc,start     ] GC(1) Pause Young (Allocation Failure)
+[2019-06-24T14:07:44.013+0000][1][gc,task      ] GC(1) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:44.029+0000][1][gc,age       ] GC(1) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:44.029+0000][1][gc,age       ] GC(1) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:44.029+0000][1][gc,age       ] GC(1) - age   1:    2416624 bytes,    2416624 total
+[2019-06-24T14:07:44.029+0000][1][gc,heap      ] GC(1) ParNew: 77942K->6348K(78656K)
+[2019-06-24T14:07:44.029+0000][1][gc,heap      ] GC(1) CMS: 0K->6613K(174784K)
+[2019-06-24T14:07:44.029+0000][1][gc,metaspace ] GC(1) Metaspace: 14579K->14579K(1062912K)
+[2019-06-24T14:07:44.029+0000][1][gc           ] GC(1) Pause Young (Allocation Failure) 76M->12M(247M) 16.690ms
+[2019-06-24T14:07:44.029+0000][1][gc,cpu       ] GC(1) User=0.09s Sys=0.00s Real=0.02s
+[2019-06-24T14:07:44.029+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.029+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0168366 seconds, Stopping threads took: 0.0000169 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Application time: 0.0003012 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001479 seconds, Stopping threads took: 0.0000455 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Application time: 0.0000630 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000822 seconds, Stopping threads took: 0.0000400 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Application time: 0.0000614 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000765 seconds, Stopping threads took: 0.0000371 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Application time: 0.0000458 seconds
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.030+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000659 seconds, Stopping threads took: 0.0000144 seconds
+[2019-06-24T14:07:44.033+0000][1][safepoint    ] Application time: 0.0028171 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0034336 seconds, Stopping threads took: 0.0033698 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Application time: 0.0000495 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000551 seconds, Stopping threads took: 0.0000118 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Application time: 0.0000649 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000685 seconds, Stopping threads took: 0.0000171 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Application time: 0.0000554 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000966 seconds, Stopping threads took: 0.0000421 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Application time: 0.0001385 seconds
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.037+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000578 seconds, Stopping threads took: 0.0000116 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Application time: 0.0000422 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000555 seconds, Stopping threads took: 0.0000111 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Application time: 0.0000460 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000786 seconds, Stopping threads took: 0.0000104 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Application time: 0.0000399 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000564 seconds, Stopping threads took: 0.0000109 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Application time: 0.0000427 seconds
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.038+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000784 seconds, Stopping threads took: 0.0000105 seconds
+[2019-06-24T14:07:44.202+0000][1][safepoint    ] Application time: 0.1638406 seconds
+[2019-06-24T14:07:44.202+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:44.202+0000][1][gc,start     ] GC(2) Pause Young (Allocation Failure)
+[2019-06-24T14:07:44.202+0000][1][gc,task      ] GC(2) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:44.211+0000][1][gc,age       ] GC(2) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:44.211+0000][1][gc,age       ] GC(2) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:44.211+0000][1][gc,age       ] GC(2) - age   1:    2818344 bytes,    2818344 total
+[2019-06-24T14:07:44.211+0000][1][gc,age       ] GC(2) - age   2:    1206440 bytes,    4024784 total
+[2019-06-24T14:07:44.211+0000][1][gc,heap      ] GC(2) ParNew: 76300K->4972K(78656K)
+[2019-06-24T14:07:44.211+0000][1][gc,heap      ] GC(2) CMS: 6613K->6613K(174784K)
+[2019-06-24T14:07:44.211+0000][1][gc,metaspace ] GC(2) Metaspace: 14724K->14724K(1062912K)
+[2019-06-24T14:07:44.211+0000][1][gc           ] GC(2) Pause Young (Allocation Failure) 80M->11M(247M) 8.752ms
+[2019-06-24T14:07:44.211+0000][1][gc,cpu       ] GC(2) User=0.04s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:44.211+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.211+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0089702 seconds, Stopping threads took: 0.0000583 seconds
+[2019-06-24T14:07:44.213+0000][1][safepoint    ] Application time: 0.0023813 seconds
+[2019-06-24T14:07:44.213+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.213+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.213+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000762 seconds, Stopping threads took: 0.0000321 seconds
+[2019-06-24T14:07:44.213+0000][1][safepoint    ] Application time: 0.0000537 seconds
+[2019-06-24T14:07:44.213+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.214+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.214+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000679 seconds, Stopping threads took: 0.0000158 seconds
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Application time: 0.0014172 seconds
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000994 seconds, Stopping threads took: 0.0000524 seconds
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Application time: 0.0000567 seconds
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000628 seconds, Stopping threads took: 0.0000130 seconds
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Application time: 0.0000509 seconds
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000569 seconds, Stopping threads took: 0.0000116 seconds
+[2019-06-24T14:07:44.215+0000][1][safepoint    ] Application time: 0.0000469 seconds
+[2019-06-24T14:07:44.220+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.221+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.221+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0051266 seconds, Stopping threads took: 0.0050540 seconds
+[2019-06-24T14:07:44.377+0000][1][safepoint    ] Application time: 0.1563059 seconds
+[2019-06-24T14:07:44.377+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:44.377+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.377+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004293 seconds, Stopping threads took: 0.0000335 seconds
+[2019-06-24T14:07:44.378+0000][1][safepoint    ] Application time: 0.0005774 seconds
+[2019-06-24T14:07:44.378+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:44.378+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.378+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002369 seconds, Stopping threads took: 0.0000096 seconds
+[2019-06-24T14:07:44.681+0000][1][safepoint    ] Application time: 0.3029312 seconds
+[2019-06-24T14:07:44.681+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.681+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.681+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001374 seconds, Stopping threads took: 0.0000209 seconds
+[2019-06-24T14:07:44.711+0000][1][safepoint    ] Application time: 0.0294380 seconds
+[2019-06-24T14:07:44.711+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:44.711+0000][1][gc,start     ] GC(3) Pause Young (Allocation Failure)
+[2019-06-24T14:07:44.711+0000][1][gc,task      ] GC(3) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:44.720+0000][1][gc,age       ] GC(3) Desired survivor size 4456448 bytes, new threshold 3 (max threshold 6)
+[2019-06-24T14:07:44.720+0000][1][gc,age       ] GC(3) Age table with threshold 3 (max threshold 6)
+[2019-06-24T14:07:44.720+0000][1][gc,age       ] GC(3) - age   1:    4088600 bytes,    4088600 total
+[2019-06-24T14:07:44.720+0000][1][gc,age       ] GC(3) - age   2:     294192 bytes,    4382792 total
+[2019-06-24T14:07:44.720+0000][1][gc,age       ] GC(3) - age   3:    1203032 bytes,    5585824 total
+[2019-06-24T14:07:44.720+0000][1][gc,heap      ] GC(3) ParNew: 74924K->6414K(78656K)
+[2019-06-24T14:07:44.720+0000][1][gc,heap      ] GC(3) CMS: 6613K->6613K(174784K)
+[2019-06-24T14:07:44.720+0000][1][gc,metaspace ] GC(3) Metaspace: 18158K->18158K(1067008K)
+[2019-06-24T14:07:44.720+0000][1][gc           ] GC(3) Pause Young (Allocation Failure) 79M->12M(247M) 9.311ms
+[2019-06-24T14:07:44.720+0000][1][gc,cpu       ] GC(3) User=0.04s Sys=0.00s Real=0.01s
+[2019-06-24T14:07:44.720+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.720+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0094671 seconds, Stopping threads took: 0.0000268 seconds
+[2019-06-24T14:07:44.721+0000][1][safepoint    ] Application time: 0.0009313 seconds
+[2019-06-24T14:07:44.721+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:44.722+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.722+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002570 seconds, Stopping threads took: 0.0000984 seconds
+[2019-06-24T14:07:44.725+0000][1][safepoint    ] Application time: 0.0036490 seconds
+[2019-06-24T14:07:44.725+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003055 seconds, Stopping threads took: 0.0002242 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000694 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000799 seconds, Stopping threads took: 0.0000330 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000662 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000654 seconds, Stopping threads took: 0.0000297 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000500 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000565 seconds, Stopping threads took: 0.0000082 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000410 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000403 seconds, Stopping threads took: 0.0000081 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000396 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000370 seconds, Stopping threads took: 0.0000075 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000336 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000417 seconds, Stopping threads took: 0.0000073 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000376 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000369 seconds, Stopping threads took: 0.0000072 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Application time: 0.0000325 seconds
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.726+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000355 seconds, Stopping threads took: 0.0000072 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Application time: 0.0000356 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000367 seconds, Stopping threads took: 0.0000073 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Application time: 0.0000324 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000360 seconds, Stopping threads took: 0.0000072 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Application time: 0.0001597 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000629 seconds, Stopping threads took: 0.0000088 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Application time: 0.0000482 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000712 seconds, Stopping threads took: 0.0000153 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Application time: 0.0000611 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000812 seconds, Stopping threads took: 0.0000309 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Application time: 0.0000517 seconds
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.727+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000630 seconds, Stopping threads took: 0.0000154 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Application time: 0.0001250 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001212 seconds, Stopping threads took: 0.0000702 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Application time: 0.0000596 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000657 seconds, Stopping threads took: 0.0000264 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Application time: 0.0000502 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000628 seconds, Stopping threads took: 0.0000284 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Application time: 0.0000584 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000860 seconds, Stopping threads took: 0.0000556 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Application time: 0.0000516 seconds
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.728+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000982 seconds, Stopping threads took: 0.0000673 seconds
+[2019-06-24T14:07:44.859+0000][1][safepoint    ] Application time: 0.1302434 seconds
+[2019-06-24T14:07:44.859+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.859+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.859+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001979 seconds, Stopping threads took: 0.0000902 seconds
+[2019-06-24T14:07:44.882+0000][1][safepoint    ] Application time: 0.0236231 seconds
+[2019-06-24T14:07:44.883+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:44.883+0000][1][gc,start     ] GC(4) Pause Young (Allocation Failure)
+[2019-06-24T14:07:44.883+0000][1][gc,task      ] GC(4) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:44.889+0000][1][gc,age       ] GC(4) Desired survivor size 4456448 bytes, new threshold 2 (max threshold 6)
+[2019-06-24T14:07:44.889+0000][1][gc,age       ] GC(4) Age table with threshold 2 (max threshold 6)
+[2019-06-24T14:07:44.890+0000][1][gc,age       ] GC(4) - age   1:    1943512 bytes,    1943512 total
+[2019-06-24T14:07:44.890+0000][1][gc,age       ] GC(4) - age   2:    3330152 bytes,    5273664 total
+[2019-06-24T14:07:44.890+0000][1][gc,age       ] GC(4) - age   3:     293664 bytes,    5567328 total
+[2019-06-24T14:07:44.890+0000][1][gc,heap      ] GC(4) ParNew: 76366K->7787K(78656K)
+[2019-06-24T14:07:44.890+0000][1][gc,heap      ] GC(4) CMS: 6613K->7806K(174784K)
+[2019-06-24T14:07:44.890+0000][1][gc,metaspace ] GC(4) Metaspace: 18365K->18365K(1067008K)
+[2019-06-24T14:07:44.890+0000][1][gc           ] GC(4) Pause Young (Allocation Failure) 81M->15M(247M) 6.998ms
+[2019-06-24T14:07:44.890+0000][1][gc,cpu       ] GC(4) User=0.03s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0071749 seconds, Stopping threads took: 0.0000464 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Application time: 0.0001837 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001276 seconds, Stopping threads took: 0.0000550 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Application time: 0.0000680 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000498 seconds, Stopping threads took: 0.0000082 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Application time: 0.0000713 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000500 seconds, Stopping threads took: 0.0000091 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Application time: 0.0000434 seconds
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.890+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000437 seconds, Stopping threads took: 0.0000079 seconds
+[2019-06-24T14:07:44.917+0000][1][safepoint    ] Application time: 0.0264387 seconds
+[2019-06-24T14:07:44.917+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:44.917+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.917+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005064 seconds, Stopping threads took: 0.0000531 seconds
+[2019-06-24T14:07:44.969+0000][1][safepoint    ] Application time: 0.0519297 seconds
+[2019-06-24T14:07:44.969+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:44.970+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.970+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004282 seconds, Stopping threads took: 0.0000348 seconds
+[2019-06-24T14:07:44.978+0000][1][safepoint    ] Application time: 0.0078108 seconds
+[2019-06-24T14:07:44.978+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:44.978+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:44.978+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001295 seconds, Stopping threads took: 0.0000491 seconds
+[2019-06-24T14:07:45.131+0000][1][safepoint    ] Application time: 0.1528482 seconds
+[2019-06-24T14:07:45.131+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:45.131+0000][1][gc,start     ] GC(5) Pause Young (Allocation Failure)
+[2019-06-24T14:07:45.131+0000][1][gc,task      ] GC(5) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:45.145+0000][1][gc,age       ] GC(5) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:45.145+0000][1][gc,age       ] GC(5) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:45.145+0000][1][gc,age       ] GC(5) - age   1:    3209784 bytes,    3209784 total
+[2019-06-24T14:07:45.145+0000][1][gc,age       ] GC(5) - age   2:     443072 bytes,    3652856 total
+[2019-06-24T14:07:45.145+0000][1][gc,heap      ] GC(5) ParNew: 77739K->5142K(78656K)
+[2019-06-24T14:07:45.145+0000][1][gc,heap      ] GC(5) CMS: 7806K->11384K(174784K)
+[2019-06-24T14:07:45.145+0000][1][gc,metaspace ] GC(5) Metaspace: 18727K->18727K(1067008K)
+[2019-06-24T14:07:45.145+0000][1][gc           ] GC(5) Pause Young (Allocation Failure) 83M->16M(247M) 13.778ms
+[2019-06-24T14:07:45.145+0000][1][gc,cpu       ] GC(5) User=0.04s Sys=0.00s Real=0.02s
+[2019-06-24T14:07:45.145+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.145+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0139801 seconds, Stopping threads took: 0.0000487 seconds
+[2019-06-24T14:07:45.149+0000][1][safepoint    ] Application time: 0.0046572 seconds
+[2019-06-24T14:07:45.154+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:45.154+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.154+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0050281 seconds, Stopping threads took: 0.0049558 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Application time: 0.0000790 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000943 seconds, Stopping threads took: 0.0000474 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Application time: 0.0000744 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000579 seconds, Stopping threads took: 0.0000125 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Application time: 0.0000424 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000523 seconds, Stopping threads took: 0.0000107 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Application time: 0.0000486 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000523 seconds, Stopping threads took: 0.0000103 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Application time: 0.0000419 seconds
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.155+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000522 seconds, Stopping threads took: 0.0000106 seconds
+[2019-06-24T14:07:45.305+0000][1][safepoint    ] Application time: 0.1499588 seconds
+[2019-06-24T14:07:45.305+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:45.305+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.305+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001314 seconds, Stopping threads took: 0.0000470 seconds
+[2019-06-24T14:07:45.309+0000][1][safepoint    ] Application time: 0.0037107 seconds
+[2019-06-24T14:07:45.309+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:45.309+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.309+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002218 seconds, Stopping threads took: 0.0000403 seconds
+[2019-06-24T14:07:45.366+0000][1][safepoint    ] Application time: 0.0564669 seconds
+[2019-06-24T14:07:45.366+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:45.366+0000][1][gc,start     ] GC(6) Pause Young (Allocation Failure)
+[2019-06-24T14:07:45.366+0000][1][gc,task      ] GC(6) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:45.372+0000][1][gc,age       ] GC(6) Desired survivor size 4456448 bytes, new threshold 3 (max threshold 6)
+[2019-06-24T14:07:45.372+0000][1][gc,age       ] GC(6) Age table with threshold 3 (max threshold 6)
+[2019-06-24T14:07:45.372+0000][1][gc,age       ] GC(6) - age   1:    2235912 bytes,    2235912 total
+[2019-06-24T14:07:45.372+0000][1][gc,age       ] GC(6) - age   2:    2196424 bytes,    4432336 total
+[2019-06-24T14:07:45.372+0000][1][gc,age       ] GC(6) - age   3:     443024 bytes,    4875360 total
+[2019-06-24T14:07:45.372+0000][1][gc,heap      ] GC(6) ParNew: 75094K->6053K(78656K)
+[2019-06-24T14:07:45.372+0000][1][gc,heap      ] GC(6) CMS: 11384K->11384K(174784K)
+[2019-06-24T14:07:45.372+0000][1][gc,metaspace ] GC(6) Metaspace: 19036K->19036K(1067008K)
+[2019-06-24T14:07:45.372+0000][1][gc           ] GC(6) Pause Young (Allocation Failure) 84M->17M(247M) 5.986ms
+[2019-06-24T14:07:45.372+0000][1][gc,cpu       ] GC(6) User=0.01s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:45.372+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.372+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0062958 seconds, Stopping threads took: 0.0000748 seconds
+[2019-06-24T14:07:45.379+0000][1][safepoint    ] Application time: 0.0062524 seconds
+[2019-06-24T14:07:45.382+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:45.382+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.382+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0035736 seconds, Stopping threads took: 0.0034547 seconds
+[2019-06-24T14:07:45.640+0000][1][safepoint    ] Application time: 0.2578352 seconds
+[2019-06-24T14:07:45.640+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:45.640+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.640+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002697 seconds, Stopping threads took: 0.0000648 seconds
+[2019-06-24T14:07:45.654+0000][1][safepoint    ] Application time: 0.0132212 seconds
+[2019-06-24T14:07:45.654+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:45.654+0000][1][gc,start     ] GC(7) Pause Young (Allocation Failure)
+[2019-06-24T14:07:45.654+0000][1][gc,task      ] GC(7) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:45.662+0000][1][gc,age       ] GC(7) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:45.662+0000][1][gc,age       ] GC(7) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:45.662+0000][1][gc,age       ] GC(7) - age   1:     764312 bytes,     764312 total
+[2019-06-24T14:07:45.662+0000][1][gc,age       ] GC(7) - age   2:    1130016 bytes,    1894328 total
+[2019-06-24T14:07:45.662+0000][1][gc,age       ] GC(7) - age   3:    2194416 bytes,    4088744 total
+[2019-06-24T14:07:45.662+0000][1][gc,heap      ] GC(7) ParNew: 76005K->4606K(78656K)
+[2019-06-24T14:07:45.662+0000][1][gc,heap      ] GC(7) CMS: 11384K->11821K(174784K)
+[2019-06-24T14:07:45.662+0000][1][gc,metaspace ] GC(7) Metaspace: 20042K->20042K(1069056K)
+[2019-06-24T14:07:45.662+0000][1][gc           ] GC(7) Pause Young (Allocation Failure) 85M->16M(247M) 8.741ms
+[2019-06-24T14:07:45.662+0000][1][gc,cpu       ] GC(7) User=0.03s Sys=0.00s Real=0.01s
+[2019-06-24T14:07:45.663+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.663+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0089367 seconds, Stopping threads took: 0.0000485 seconds
+[2019-06-24T14:07:45.677+0000][1][safepoint    ] Application time: 0.0149011 seconds
+[2019-06-24T14:07:45.678+0000][1][safepoint    ] Entering safepoint region: CMS_Initial_Mark
+[2019-06-24T14:07:45.678+0000][1][gc,start     ] GC(8) Pause Initial Mark
+[2019-06-24T14:07:45.679+0000][1][gc           ] GC(8) Pause Initial Mark 17M->17M(247M) 1.704ms
+[2019-06-24T14:07:45.679+0000][1][gc,cpu       ] GC(8) User=0.00s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:45.679+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.679+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0018481 seconds, Stopping threads took: 0.0000321 seconds
+[2019-06-24T14:07:45.679+0000][1][gc           ] GC(8) Concurrent Mark
+[2019-06-24T14:07:45.680+0000][1][gc,task      ] GC(8) Using 2 workers of 2 for marking
+[2019-06-24T14:07:45.700+0000][1][gc           ] GC(8) Concurrent Mark 20.765ms
+[2019-06-24T14:07:45.700+0000][1][gc,cpu       ] GC(8) User=0.08s Sys=0.00s Real=0.02s
+[2019-06-24T14:07:45.700+0000][1][gc           ] GC(8) Concurrent Preclean
+[2019-06-24T14:07:45.701+0000][1][gc           ] GC(8) Concurrent Preclean 0.811ms
+[2019-06-24T14:07:45.701+0000][1][gc,cpu       ] GC(8) User=0.00s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:45.701+0000][1][gc           ] GC(8) Concurrent Abortable Preclean
+[2019-06-24T14:07:45.929+0000][1][safepoint    ] Application time: 0.2497678 seconds
+[2019-06-24T14:07:45.929+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:45.929+0000][1][gc,start     ] GC(9) Pause Young (Allocation Failure)
+[2019-06-24T14:07:45.929+0000][1][gc,task      ] GC(9) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:45.939+0000][1][gc,age       ] GC(9) Desired survivor size 4456448 bytes, new threshold 4 (max threshold 6)
+[2019-06-24T14:07:45.939+0000][1][gc,age       ] GC(9) Age table with threshold 4 (max threshold 6)
+[2019-06-24T14:07:45.939+0000][1][gc,age       ] GC(9) - age   1:    1051168 bytes,    1051168 total
+[2019-06-24T14:07:45.939+0000][1][gc,age       ] GC(9) - age   2:     703776 bytes,    1754944 total
+[2019-06-24T14:07:45.939+0000][1][gc,age       ] GC(9) - age   3:    1129920 bytes,    2884864 total
+[2019-06-24T14:07:45.939+0000][1][gc,age       ] GC(9) - age   4:    2194128 bytes,    5078992 total
+[2019-06-24T14:07:45.939+0000][1][gc,heap      ] GC(9) ParNew: 74558K->7121K(78656K)
+[2019-06-24T14:07:45.939+0000][1][gc,heap      ] GC(9) CMS: 11821K->11821K(174784K)
+[2019-06-24T14:07:45.939+0000][1][gc,metaspace ] GC(9) Metaspace: 20085K->20085K(1069056K)
+[2019-06-24T14:07:45.939+0000][1][gc           ] GC(9) Pause Young (Allocation Failure) 84M->18M(247M) 10.178ms
+[2019-06-24T14:07:45.939+0000][1][gc,cpu       ] GC(9) User=0.03s Sys=0.00s Real=0.01s
+[2019-06-24T14:07:45.940+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.940+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0103586 seconds, Stopping threads took: 0.0000452 seconds
+[2019-06-24T14:07:45.945+0000][1][gc           ] GC(8) Concurrent Abortable Preclean 244.354ms
+[2019-06-24T14:07:45.946+0000][1][gc,cpu       ] GC(8) User=0.71s Sys=0.02s Real=0.25s
+[2019-06-24T14:07:45.946+0000][1][safepoint    ] Application time: 0.0060005 seconds
+[2019-06-24T14:07:45.946+0000][1][safepoint    ] Entering safepoint region: CMS_Final_Remark
+[2019-06-24T14:07:45.946+0000][1][gc,start     ] GC(8) Pause Remark
+[2019-06-24T14:07:45.972+0000][1][gc           ] GC(8) Pause Remark 19M->19M(247M) 26.114ms
+[2019-06-24T14:07:45.972+0000][1][gc,cpu       ] GC(8) User=0.04s Sys=0.00s Real=0.02s
+[2019-06-24T14:07:45.972+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:45.972+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0263122 seconds, Stopping threads took: 0.0000488 seconds
+[2019-06-24T14:07:45.978+0000][1][gc           ] GC(8) Concurrent Sweep
+[2019-06-24T14:07:45.984+0000][1][gc           ] GC(8) Concurrent Sweep 5.935ms
+[2019-06-24T14:07:45.984+0000][1][gc,cpu       ] GC(8) User=0.01s Sys=0.00s Real=0.01s
+[2019-06-24T14:07:45.984+0000][1][gc           ] GC(8) Concurrent Reset
+[2019-06-24T14:07:45.984+0000][1][gc           ] GC(8) Concurrent Reset 0.473ms
+[2019-06-24T14:07:45.984+0000][1][gc,cpu       ] GC(8) User=0.00s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:45.984+0000][1][gc,heap      ] GC(8) Old: 11821K->11795K(174784K)
+[2019-06-24T14:07:46.252+0000][1][safepoint    ] Application time: 0.2799363 seconds
+[2019-06-24T14:07:46.264+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:46.265+0000][1][gc,start     ] GC(10) Pause Young (Allocation Failure)
+[2019-06-24T14:07:46.265+0000][1][gc,task      ] GC(10) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:46.275+0000][1][gc,age       ] GC(10) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:46.275+0000][1][gc,age       ] GC(10) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:46.275+0000][1][gc,age       ] GC(10) - age   1:     699744 bytes,     699744 total
+[2019-06-24T14:07:46.275+0000][1][gc,age       ] GC(10) - age   2:     295960 bytes,     995704 total
+[2019-06-24T14:07:46.275+0000][1][gc,age       ] GC(10) - age   3:     703784 bytes,    1699488 total
+[2019-06-24T14:07:46.275+0000][1][gc,age       ] GC(10) - age   4:    1129920 bytes,    2829408 total
+[2019-06-24T14:07:46.275+0000][1][gc,heap      ] GC(10) ParNew: 77073K->6061K(78656K)
+[2019-06-24T14:07:46.275+0000][1][gc,heap      ] GC(10) CMS: 11795K->13951K(174784K)
+[2019-06-24T14:07:46.275+0000][1][gc,metaspace ] GC(10) Metaspace: 20197K->20197K(1069056K)
+[2019-06-24T14:07:46.275+0000][1][gc           ] GC(10) Pause Young (Allocation Failure) 86M->19M(247M) 10.225ms
+[2019-06-24T14:07:46.275+0000][1][gc,cpu       ] GC(10) User=0.02s Sys=0.00s Real=0.01s
+[2019-06-24T14:07:46.275+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:46.275+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0233999 seconds, Stopping threads took: 0.0126284 seconds
+[2019-06-24T14:07:46.515+0000][1][safepoint    ] Application time: 0.2398774 seconds
+[2019-06-24T14:07:46.515+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:46.515+0000][1][gc,start     ] GC(11) Pause Young (Allocation Failure)
+[2019-06-24T14:07:46.515+0000][1][gc,task      ] GC(11) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:46.520+0000][1][gc,age       ] GC(11) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:46.520+0000][1][gc,age       ] GC(11) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:46.520+0000][1][gc,age       ] GC(11) - age   1:    2094208 bytes,    2094208 total
+[2019-06-24T14:07:46.520+0000][1][gc,age       ] GC(11) - age   2:      99432 bytes,    2193640 total
+[2019-06-24T14:07:46.520+0000][1][gc,age       ] GC(11) - age   3:     295960 bytes,    2489600 total
+[2019-06-24T14:07:46.520+0000][1][gc,age       ] GC(11) - age   4:     703504 bytes,    3193104 total
+[2019-06-24T14:07:46.520+0000][1][gc,age       ] GC(11) - age   5:    1129632 bytes,    4322736 total
+[2019-06-24T14:07:46.520+0000][1][gc,heap      ] GC(11) ParNew: 76013K->4963K(78656K)
+[2019-06-24T14:07:46.520+0000][1][gc,heap      ] GC(11) CMS: 13951K->13951K(174784K)
+[2019-06-24T14:07:46.520+0000][1][gc,metaspace ] GC(11) Metaspace: 20257K->20257K(1069056K)
+[2019-06-24T14:07:46.520+0000][1][gc           ] GC(11) Pause Young (Allocation Failure) 87M->18M(247M) 4.598ms
+[2019-06-24T14:07:46.520+0000][1][gc,cpu       ] GC(11) User=0.02s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:46.520+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:46.520+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0047820 seconds, Stopping threads took: 0.0000237 seconds
+[2019-06-24T14:07:46.610+0000][1][safepoint    ] Application time: 0.0899095 seconds
+[2019-06-24T14:07:46.610+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:46.610+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:46.610+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004252 seconds, Stopping threads took: 0.0000443 seconds
+[2019-06-24T14:07:47.229+0000][1][safepoint    ] Application time: 0.6185635 seconds
+[2019-06-24T14:07:47.229+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:47.230+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:47.230+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0007401 seconds, Stopping threads took: 0.0000207 seconds
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Application time: 0.0157044 seconds
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001756 seconds, Stopping threads took: 0.0001086 seconds
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Application time: 0.0000876 seconds
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000914 seconds, Stopping threads took: 0.0000453 seconds
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Application time: 0.0004700 seconds
+[2019-06-24T14:07:47.246+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:47.247+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:47.247+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003908 seconds, Stopping threads took: 0.0000145 seconds
+[2019-06-24T14:07:47.252+0000][1][safepoint    ] Application time: 0.0049797 seconds
+[2019-06-24T14:07:47.252+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:47.252+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:47.252+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003165 seconds, Stopping threads took: 0.0000218 seconds
+[2019-06-24T14:07:47.600+0000][1][safepoint    ] Application time: 0.3472952 seconds
+[2019-06-24T14:07:47.600+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:47.600+0000][1][gc,start     ] GC(12) Pause Young (Allocation Failure)
+[2019-06-24T14:07:47.600+0000][1][gc,task      ] GC(12) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) Desired survivor size 4456448 bytes, new threshold 1 (max threshold 6)
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) Age table with threshold 1 (max threshold 6)
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) - age   1:    4978216 bytes,    4978216 total
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) - age   2:     344840 bytes,    5323056 total
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) - age   3:      99168 bytes,    5422224 total
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) - age   4:     295960 bytes,    5718184 total
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) - age   5:     698144 bytes,    6416328 total
+[2019-06-24T14:07:47.630+0000][1][gc,age       ] GC(12) - age   6:    1129472 bytes,    7545800 total
+[2019-06-24T14:07:47.630+0000][1][gc,heap      ] GC(12) ParNew: 74915K->8447K(78656K)
+[2019-06-24T14:07:47.630+0000][1][gc,heap      ] GC(12) CMS: 13951K->13951K(174784K)
+[2019-06-24T14:07:47.630+0000][1][gc,metaspace ] GC(12) Metaspace: 26287K->26287K(1073152K)
+[2019-06-24T14:07:47.630+0000][1][gc           ] GC(12) Pause Young (Allocation Failure) 86M->21M(247M) 30.393ms
+[2019-06-24T14:07:47.630+0000][1][gc,cpu       ] GC(12) User=0.08s Sys=0.00s Real=0.03s
+[2019-06-24T14:07:47.630+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:47.630+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0306208 seconds, Stopping threads took: 0.0000292 seconds
+[2019-06-24T14:07:48.586+0000][1][safepoint    ] Application time: 0.9557013 seconds
+[2019-06-24T14:07:48.586+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:48.586+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:48.586+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003592 seconds, Stopping threads took: 0.0000517 seconds
+[2019-06-24T14:07:49.508+0000][1][safepoint    ] Application time: 0.9217322 seconds
+[2019-06-24T14:07:49.513+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:49.513+0000][1][gc,start     ] GC(13) Pause Young (Allocation Failure)
+[2019-06-24T14:07:49.513+0000][1][gc,task      ] GC(13) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:49.580+0000][1][gc,age       ] GC(13) Desired survivor size 4456448 bytes, new threshold 1 (max threshold 6)
+[2019-06-24T14:07:49.580+0000][1][gc,age       ] GC(13) Age table with threshold 1 (max threshold 6)
+[2019-06-24T14:07:49.580+0000][1][gc,age       ] GC(13) - age   1:    8807608 bytes,    8807608 total
+[2019-06-24T14:07:49.580+0000][1][gc,heap      ] GC(13) ParNew: 78399K->8704K(78656K)
+[2019-06-24T14:07:49.580+0000][1][gc,heap      ] GC(13) CMS: 13951K->26492K(174784K)
+[2019-06-24T14:07:49.580+0000][1][gc,metaspace ] GC(13) Metaspace: 26788K->26788K(1075200K)
+[2019-06-24T14:07:49.580+0000][1][gc           ] GC(13) Pause Young (Allocation Failure) 90M->34M(247M) 66.574ms
+[2019-06-24T14:07:49.580+0000][1][gc,cpu       ] GC(13) User=0.13s Sys=0.00s Real=0.06s
+[2019-06-24T14:07:49.580+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:49.580+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0718335 seconds, Stopping threads took: 0.0050813 seconds
+[2019-06-24T14:07:50.013+0000][1][safepoint    ] Application time: 0.4331841 seconds
+[2019-06-24T14:07:50.013+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:07:50.014+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:50.014+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0007399 seconds, Stopping threads took: 0.0000361 seconds
+[2019-06-24T14:07:50.982+0000][1][safepoint    ] Application time: 0.9674906 seconds
+[2019-06-24T14:07:50.984+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:50.984+0000][1][gc,start     ] GC(14) Pause Young (Allocation Failure)
+[2019-06-24T14:07:50.984+0000][1][gc,task      ] GC(14) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:51.101+0000][1][gc,age       ] GC(14) Desired survivor size 4456448 bytes, new threshold 1 (max threshold 6)
+[2019-06-24T14:07:51.101+0000][1][gc,age       ] GC(14) Age table with threshold 1 (max threshold 6)
+[2019-06-24T14:07:51.101+0000][1][gc,age       ] GC(14) - age   1:    7537160 bytes,    7537160 total
+[2019-06-24T14:07:51.102+0000][1][gc,heap      ] GC(14) ParNew: 78656K->8704K(78656K)
+[2019-06-24T14:07:51.102+0000][1][gc,heap      ] GC(14) CMS: 26492K->41502K(174784K)
+[2019-06-24T14:07:51.102+0000][1][gc,metaspace ] GC(14) Metaspace: 26925K->26925K(1075200K)
+[2019-06-24T14:07:51.102+0000][1][gc           ] GC(14) Pause Young (Allocation Failure) 102M->49M(247M) 117.173ms
+[2019-06-24T14:07:51.102+0000][1][gc,cpu       ] GC(14) User=0.24s Sys=0.00s Real=0.12s
+[2019-06-24T14:07:51.102+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:51.102+0000][1][safepoint    ] Total time for which application threads were stopped: 0.1174391 seconds, Stopping threads took: 0.0000946 seconds
+[2019-06-24T14:07:52.125+0000][1][safepoint    ] Application time: 1.0230241 seconds
+[2019-06-24T14:07:52.125+0000][1][safepoint    ] Entering safepoint region: Cleanup
+[2019-06-24T14:07:52.125+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:52.125+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005492 seconds, Stopping threads took: 0.0004224 seconds
+[2019-06-24T14:07:53.071+0000][1][safepoint    ] Application time: 0.9453648 seconds
+[2019-06-24T14:07:53.082+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:53.082+0000][1][gc,start     ] GC(15) Pause Young (Allocation Failure)
+[2019-06-24T14:07:53.082+0000][1][gc,task      ] GC(15) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:53.161+0000][1][gc,age       ] GC(15) Desired survivor size 4456448 bytes, new threshold 1 (max threshold 6)
+[2019-06-24T14:07:53.161+0000][1][gc,age       ] GC(15) Age table with threshold 1 (max threshold 6)
+[2019-06-24T14:07:53.161+0000][1][gc,age       ] GC(15) - age   1:    6270936 bytes,    6270936 total
+[2019-06-24T14:07:53.161+0000][1][gc,heap      ] GC(15) ParNew: 78656K->8704K(78656K)
+[2019-06-24T14:07:53.161+0000][1][gc,heap      ] GC(15) CMS: 41502K->49975K(174784K)
+[2019-06-24T14:07:53.161+0000][1][gc,metaspace ] GC(15) Metaspace: 32719K->32719K(1079296K)
+[2019-06-24T14:07:53.161+0000][1][gc           ] GC(15) Pause Young (Allocation Failure) 117M->57M(247M) 79.618ms
+[2019-06-24T14:07:53.161+0000][1][gc,cpu       ] GC(15) User=0.15s Sys=0.01s Real=0.08s
+[2019-06-24T14:07:53.161+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:53.162+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0906986 seconds, Stopping threads took: 0.0108651 seconds
+[2019-06-24T14:07:53.470+0000][1][safepoint    ] Application time: 0.3086134 seconds
+[2019-06-24T14:07:53.470+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:53.470+0000][1][gc,start     ] GC(16) Pause Young (Allocation Failure)
+[2019-06-24T14:07:53.471+0000][1][gc,task      ] GC(16) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:53.510+0000][1][gc,age       ] GC(16) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:53.510+0000][1][gc,age       ] GC(16) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:53.510+0000][1][gc,age       ] GC(16) - age   1:     205824 bytes,     205824 total
+[2019-06-24T14:07:53.510+0000][1][gc,heap      ] GC(16) ParNew: 78656K->3883K(78656K)
+[2019-06-24T14:07:53.510+0000][1][gc,heap      ] GC(16) CMS: 49975K->56187K(174784K)
+[2019-06-24T14:07:53.510+0000][1][gc,metaspace ] GC(16) Metaspace: 32875K->32875K(1079296K)
+[2019-06-24T14:07:53.510+0000][1][gc           ] GC(16) Pause Young (Allocation Failure) 125M->58M(247M) 39.997ms
+[2019-06-24T14:07:53.511+0000][1][gc,cpu       ] GC(16) User=0.10s Sys=0.00s Real=0.04s
+[2019-06-24T14:07:53.511+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:53.511+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0403387 seconds, Stopping threads took: 0.0000793 seconds
+[2019-06-24T14:07:53.829+0000][1][safepoint    ] Application time: 0.3186037 seconds
+[2019-06-24T14:07:53.829+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:53.829+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:53.829+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002054 seconds, Stopping threads took: 0.0000529 seconds
+[2019-06-24T14:07:53.951+0000][1][safepoint    ] Application time: 0.1216569 seconds
+[2019-06-24T14:07:53.951+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:53.951+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:53.952+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002591 seconds, Stopping threads took: 0.0000473 seconds
+[2019-06-24T14:07:54.018+0000][1][safepoint    ] Application time: 0.0660198 seconds
+[2019-06-24T14:07:54.018+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.018+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.018+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002410 seconds, Stopping threads took: 0.0000702 seconds
+[2019-06-24T14:07:54.160+0000][1][safepoint    ] Application time: 0.1424450 seconds
+[2019-06-24T14:07:54.160+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.161+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.161+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002544 seconds, Stopping threads took: 0.0000590 seconds
+[2019-06-24T14:07:54.202+0000][1][safepoint    ] Application time: 0.0417350 seconds
+[2019-06-24T14:07:54.202+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.203+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.203+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002420 seconds, Stopping threads took: 0.0000516 seconds
+[2019-06-24T14:07:54.235+0000][1][safepoint    ] Application time: 0.0327942 seconds
+[2019-06-24T14:07:54.236+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.236+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.236+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002338 seconds, Stopping threads took: 0.0000491 seconds
+[2019-06-24T14:07:54.295+0000][1][safepoint    ] Application time: 0.0590231 seconds
+[2019-06-24T14:07:54.295+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.295+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.295+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002709 seconds, Stopping threads took: 0.0000594 seconds
+[2019-06-24T14:07:54.349+0000][1][safepoint    ] Application time: 0.0540470 seconds
+[2019-06-24T14:07:54.349+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.350+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.350+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002601 seconds, Stopping threads took: 0.0000594 seconds
+[2019-06-24T14:07:54.389+0000][1][safepoint    ] Application time: 0.0396219 seconds
+[2019-06-24T14:07:54.389+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.389+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.390+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002883 seconds, Stopping threads took: 0.0000611 seconds
+[2019-06-24T14:07:54.442+0000][1][safepoint    ] Application time: 0.0520890 seconds
+[2019-06-24T14:07:54.442+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.442+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.442+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002598 seconds, Stopping threads took: 0.0000618 seconds
+[2019-06-24T14:07:54.496+0000][1][safepoint    ] Application time: 0.0536103 seconds
+[2019-06-24T14:07:54.496+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.496+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.496+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002488 seconds, Stopping threads took: 0.0000574 seconds
+[2019-06-24T14:07:54.520+0000][1][safepoint    ] Application time: 0.0244606 seconds
+[2019-06-24T14:07:54.520+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:54.521+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.521+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001905 seconds, Stopping threads took: 0.0000508 seconds
+[2019-06-24T14:07:54.545+0000][1][safepoint    ] Application time: 0.0245637 seconds
+[2019-06-24T14:07:54.545+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.545+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.545+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002427 seconds, Stopping threads took: 0.0000468 seconds
+[2019-06-24T14:07:54.637+0000][1][safepoint    ] Application time: 0.0916657 seconds
+[2019-06-24T14:07:54.637+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:54.637+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.637+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001680 seconds, Stopping threads took: 0.0000220 seconds
+[2019-06-24T14:07:54.686+0000][1][safepoint    ] Application time: 0.0487184 seconds
+[2019-06-24T14:07:54.686+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.686+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.686+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002637 seconds, Stopping threads took: 0.0000597 seconds
+[2019-06-24T14:07:54.759+0000][1][safepoint    ] Application time: 0.0713006 seconds
+[2019-06-24T14:07:54.759+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.759+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.759+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002345 seconds, Stopping threads took: 0.0000295 seconds
+[2019-06-24T14:07:54.823+0000][1][safepoint    ] Application time: 0.0637791 seconds
+[2019-06-24T14:07:54.823+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.823+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.823+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002599 seconds, Stopping threads took: 0.0000552 seconds
+[2019-06-24T14:07:54.851+0000][1][safepoint    ] Application time: 0.0277926 seconds
+[2019-06-24T14:07:54.851+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.852+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.852+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003142 seconds, Stopping threads took: 0.0000768 seconds
+[2019-06-24T14:07:54.881+0000][1][safepoint    ] Application time: 0.0294649 seconds
+[2019-06-24T14:07:54.881+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.881+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.881+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002282 seconds, Stopping threads took: 0.0000727 seconds
+[2019-06-24T14:07:54.946+0000][1][safepoint    ] Application time: 0.0645660 seconds
+[2019-06-24T14:07:54.946+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.946+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.946+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002947 seconds, Stopping threads took: 0.0000741 seconds
+[2019-06-24T14:07:54.970+0000][1][safepoint    ] Application time: 0.0241618 seconds
+[2019-06-24T14:07:54.971+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:54.971+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:54.971+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002408 seconds, Stopping threads took: 0.0000491 seconds
+[2019-06-24T14:07:55.013+0000][1][safepoint    ] Application time: 0.0417901 seconds
+[2019-06-24T14:07:55.013+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.013+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.013+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002438 seconds, Stopping threads took: 0.0000602 seconds
+[2019-06-24T14:07:55.037+0000][1][safepoint    ] Application time: 0.0236467 seconds
+[2019-06-24T14:07:55.037+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.037+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.037+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002629 seconds, Stopping threads took: 0.0000547 seconds
+[2019-06-24T14:07:55.124+0000][1][safepoint    ] Application time: 0.0874247 seconds
+[2019-06-24T14:07:55.124+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.125+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.125+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002301 seconds, Stopping threads took: 0.0000277 seconds
+[2019-06-24T14:07:55.169+0000][1][safepoint    ] Application time: 0.0447789 seconds
+[2019-06-24T14:07:55.169+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.170+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.170+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002460 seconds, Stopping threads took: 0.0000272 seconds
+[2019-06-24T14:07:55.230+0000][1][safepoint    ] Application time: 0.0600279 seconds
+[2019-06-24T14:07:55.230+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.230+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.230+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002609 seconds, Stopping threads took: 0.0000590 seconds
+[2019-06-24T14:07:55.311+0000][1][safepoint    ] Application time: 0.0809384 seconds
+[2019-06-24T14:07:55.311+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.311+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.311+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002649 seconds, Stopping threads took: 0.0000656 seconds
+[2019-06-24T14:07:55.386+0000][1][safepoint    ] Application time: 0.0743123 seconds
+[2019-06-24T14:07:55.387+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.388+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.388+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003062 seconds, Stopping threads took: 0.0000921 seconds
+[2019-06-24T14:07:55.453+0000][1][safepoint    ] Application time: 0.0643641 seconds
+[2019-06-24T14:07:55.453+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.453+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.453+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002664 seconds, Stopping threads took: 0.0000579 seconds
+[2019-06-24T14:07:55.513+0000][1][safepoint    ] Application time: 0.0598698 seconds
+[2019-06-24T14:07:55.513+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.513+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.513+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003147 seconds, Stopping threads took: 0.0000579 seconds
+[2019-06-24T14:07:55.513+0000][1][safepoint    ] Application time: 0.0001171 seconds
+[2019-06-24T14:07:55.513+0000][1][safepoint    ] Entering safepoint region: CMS_Initial_Mark
+[2019-06-24T14:07:55.513+0000][1][gc,start     ] GC(17) Pause Initial Mark
+[2019-06-24T14:07:55.541+0000][1][gc           ] GC(17) Pause Initial Mark 109M->109M(247M) 27.699ms
+[2019-06-24T14:07:55.541+0000][1][gc,cpu       ] GC(17) User=0.04s Sys=0.00s Real=0.03s
+[2019-06-24T14:07:55.541+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.541+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0279357 seconds, Stopping threads took: 0.0000806 seconds
+[2019-06-24T14:07:55.541+0000][1][gc           ] GC(17) Concurrent Mark
+[2019-06-24T14:07:55.541+0000][1][gc,task      ] GC(17) Using 2 workers of 2 for marking
+[2019-06-24T14:07:55.605+0000][1][safepoint    ] Application time: 0.0638980 seconds
+[2019-06-24T14:07:55.608+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:55.608+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.608+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0024183 seconds, Stopping threads took: 0.0022819 seconds
+[2019-06-24T14:07:55.675+0000][1][safepoint    ] Application time: 0.0669925 seconds
+[2019-06-24T14:07:55.675+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:55.675+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:55.675+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002557 seconds, Stopping threads took: 0.0000252 seconds
+[2019-06-24T14:07:55.749+0000][1][gc           ] GC(17) Concurrent Mark 207.847ms
+[2019-06-24T14:07:55.749+0000][1][gc,cpu       ] GC(17) User=0.35s Sys=0.00s Real=0.20s
+[2019-06-24T14:07:55.749+0000][1][gc           ] GC(17) Concurrent Preclean
+[2019-06-24T14:07:55.753+0000][1][gc           ] GC(17) Concurrent Preclean 3.758ms
+[2019-06-24T14:07:55.753+0000][1][gc,cpu       ] GC(17) User=0.01s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:55.753+0000][1][gc           ] GC(17) Concurrent Abortable Preclean
+[2019-06-24T14:07:56.407+0000][1][safepoint    ] Application time: 0.7318377 seconds
+[2019-06-24T14:07:56.407+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:56.407+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:56.407+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002582 seconds, Stopping threads took: 0.0000508 seconds
+[2019-06-24T14:07:57.141+0000][1][safepoint    ] Application time: 0.7339847 seconds
+[2019-06-24T14:07:57.141+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:57.142+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:57.142+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004161 seconds, Stopping threads took: 0.0000392 seconds
+[2019-06-24T14:07:57.159+0000][1][safepoint    ] Application time: 0.0172575 seconds
+[2019-06-24T14:07:57.159+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:07:57.159+0000][1][gc,start     ] GC(18) Pause Young (Allocation Failure)
+[2019-06-24T14:07:57.159+0000][1][gc,task      ] GC(18) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:57.186+0000][1][gc,age       ] GC(18) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:07:57.186+0000][1][gc,age       ] GC(18) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:07:57.186+0000][1][gc,age       ] GC(18) - age   1:    4048800 bytes,    4048800 total
+[2019-06-24T14:07:57.186+0000][1][gc,age       ] GC(18) - age   2:     204040 bytes,    4252840 total
+[2019-06-24T14:07:57.186+0000][1][gc,heap      ] GC(18) ParNew: 73835K->4635K(78656K)
+[2019-06-24T14:07:57.186+0000][1][gc,heap      ] GC(18) CMS: 56187K->56187K(174784K)
+[2019-06-24T14:07:57.186+0000][1][gc,metaspace ] GC(18) Metaspace: 42322K->42322K(1089536K)
+[2019-06-24T14:07:57.186+0000][1][gc           ] GC(18) Pause Young (Allocation Failure) 126M->59M(247M) 26.608ms
+[2019-06-24T14:07:57.186+0000][1][gc,cpu       ] GC(18) User=0.03s Sys=0.00s Real=0.03s
+[2019-06-24T14:07:57.186+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:57.186+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0268192 seconds, Stopping threads took: 0.0000492 seconds
+[2019-06-24T14:07:57.229+0000][1][safepoint    ] Application time: 0.0432820 seconds
+[2019-06-24T14:07:57.229+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:57.230+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:57.230+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002741 seconds, Stopping threads took: 0.0000276 seconds
+[2019-06-24T14:07:58.005+0000][1][safepoint    ] Application time: 0.7756004 seconds
+[2019-06-24T14:07:58.005+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:58.006+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.006+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003560 seconds, Stopping threads took: 0.0000586 seconds
+[2019-06-24T14:07:58.093+0000][1][safepoint    ] Application time: 0.0875455 seconds
+[2019-06-24T14:07:58.101+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:58.102+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.102+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0083453 seconds, Stopping threads took: 0.0079999 seconds
+[2019-06-24T14:07:58.142+0000][1][safepoint    ] Application time: 0.0403628 seconds
+[2019-06-24T14:07:58.142+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:58.142+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.142+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002504 seconds, Stopping threads took: 0.0000462 seconds
+[2019-06-24T14:07:58.297+0000][1][safepoint    ] Application time: 0.1549048 seconds
+[2019-06-24T14:07:58.297+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:58.298+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.298+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002899 seconds, Stopping threads took: 0.0000435 seconds
+[2019-06-24T14:07:58.405+0000][1][safepoint    ] Application time: 0.1075759 seconds
+[2019-06-24T14:07:58.405+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:58.405+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.405+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002377 seconds, Stopping threads took: 0.0000325 seconds
+[2019-06-24T14:07:58.410+0000][1][gc           ] GC(17) Concurrent Abortable Preclean 2656.940ms
+[2019-06-24T14:07:58.410+0000][1][gc,cpu       ] GC(17) User=4.52s Sys=0.04s Real=2.66s
+[2019-06-24T14:07:58.410+0000][1][safepoint    ] Application time: 0.0046888 seconds
+[2019-06-24T14:07:58.410+0000][1][safepoint    ] Entering safepoint region: CMS_Final_Remark
+[2019-06-24T14:07:58.410+0000][1][gc,start     ] GC(17) Pause Remark
+[2019-06-24T14:07:58.484+0000][1][gc           ] GC(17) Pause Remark 96M->96M(247M) 74.156ms
+[2019-06-24T14:07:58.485+0000][1][gc,cpu       ] GC(17) User=0.10s Sys=0.00s Real=0.08s
+[2019-06-24T14:07:58.485+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.485+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0743710 seconds, Stopping threads took: 0.0000530 seconds
+[2019-06-24T14:07:58.521+0000][1][gc           ] GC(17) Concurrent Sweep
+[2019-06-24T14:07:58.580+0000][1][safepoint    ] Application time: 0.0955554 seconds
+[2019-06-24T14:07:58.589+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:58.590+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.590+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0100732 seconds, Stopping threads took: 0.0090453 seconds
+[2019-06-24T14:07:58.609+0000][1][safepoint    ] Application time: 0.0188768 seconds
+[2019-06-24T14:07:58.609+0000][1][safepoint    ] Entering safepoint region: CollectForMetadataAllocation
+[2019-06-24T14:07:58.609+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.609+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002673 seconds, Stopping threads took: 0.0000479 seconds
+[2019-06-24T14:07:58.622+0000][1][gc           ] GC(17) Concurrent Sweep 101.265ms
+[2019-06-24T14:07:58.623+0000][1][gc,cpu       ] GC(17) User=0.20s Sys=0.00s Real=0.10s
+[2019-06-24T14:07:58.623+0000][1][gc           ] GC(17) Concurrent Reset
+[2019-06-24T14:07:58.623+0000][1][gc           ] GC(17) Concurrent Reset 0.411ms
+[2019-06-24T14:07:58.623+0000][1][gc,cpu       ] GC(17) User=0.00s Sys=0.00s Real=0.00s
+[2019-06-24T14:07:58.623+0000][1][gc,heap      ] GC(17) Old: 56187K->55987K(174784K)
+[2019-06-24T14:07:58.677+0000][1][safepoint    ] Application time: 0.0674932 seconds
+[2019-06-24T14:07:58.681+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:58.681+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.681+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0043022 seconds, Stopping threads took: 0.0041866 seconds
+[2019-06-24T14:07:58.714+0000][1][safepoint    ] Application time: 0.0322457 seconds
+[2019-06-24T14:07:58.714+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:58.714+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:58.714+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001347 seconds, Stopping threads took: 0.0000518 seconds
+[2019-06-24T14:07:59.225+0000][1][safepoint    ] Application time: 0.5115584 seconds
+[2019-06-24T14:07:59.226+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.226+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.226+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005578 seconds, Stopping threads took: 0.0001320 seconds
+[2019-06-24T14:07:59.241+0000][1][safepoint    ] Application time: 0.0151742 seconds
+[2019-06-24T14:07:59.241+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.242+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.242+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002886 seconds, Stopping threads took: 0.0001749 seconds
+[2019-06-24T14:07:59.245+0000][1][safepoint    ] Application time: 0.0038283 seconds
+[2019-06-24T14:07:59.245+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.246+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.246+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001695 seconds, Stopping threads took: 0.0000820 seconds
+[2019-06-24T14:07:59.249+0000][1][safepoint    ] Application time: 0.0035928 seconds
+[2019-06-24T14:07:59.249+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.249+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.249+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001391 seconds, Stopping threads took: 0.0000607 seconds
+[2019-06-24T14:07:59.373+0000][1][safepoint    ] Application time: 0.1237484 seconds
+[2019-06-24T14:07:59.373+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.373+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.373+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001449 seconds, Stopping threads took: 0.0000273 seconds
+[2019-06-24T14:07:59.381+0000][1][safepoint    ] Application time: 0.0077986 seconds
+[2019-06-24T14:07:59.381+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.381+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.381+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002118 seconds, Stopping threads took: 0.0000646 seconds
+[2019-06-24T14:07:59.389+0000][1][safepoint    ] Application time: 0.0076983 seconds
+[2019-06-24T14:07:59.389+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.389+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.389+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001543 seconds, Stopping threads took: 0.0000261 seconds
+[2019-06-24T14:07:59.401+0000][1][safepoint    ] Application time: 0.0117611 seconds
+[2019-06-24T14:07:59.401+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.401+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.401+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001238 seconds, Stopping threads took: 0.0000255 seconds
+[2019-06-24T14:07:59.413+0000][1][safepoint    ] Application time: 0.0118712 seconds
+[2019-06-24T14:07:59.417+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.417+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.417+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0040379 seconds, Stopping threads took: 0.0039343 seconds
+[2019-06-24T14:07:59.425+0000][1][safepoint    ] Application time: 0.0080375 seconds
+[2019-06-24T14:07:59.429+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.429+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.429+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0039136 seconds, Stopping threads took: 0.0038050 seconds
+[2019-06-24T14:07:59.429+0000][1][safepoint    ] Application time: 0.0001497 seconds
+[2019-06-24T14:07:59.430+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.430+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.430+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0007461 seconds, Stopping threads took: 0.0006688 seconds
+[2019-06-24T14:07:59.430+0000][1][safepoint    ] Application time: 0.0000829 seconds
+[2019-06-24T14:07:59.430+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.430+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.430+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001029 seconds, Stopping threads took: 0.0000390 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Application time: 0.0000738 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001059 seconds, Stopping threads took: 0.0000567 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Application time: 0.0000757 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001457 seconds, Stopping threads took: 0.0000795 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Application time: 0.0000770 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001003 seconds, Stopping threads took: 0.0000375 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Application time: 0.0000745 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001325 seconds, Stopping threads took: 0.0000748 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Application time: 0.0000718 seconds
+[2019-06-24T14:07:59.431+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001091 seconds, Stopping threads took: 0.0000378 seconds
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Application time: 0.0000709 seconds
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001428 seconds, Stopping threads took: 0.0000728 seconds
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Application time: 0.0000712 seconds
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001062 seconds, Stopping threads took: 0.0000366 seconds
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Application time: 0.0000705 seconds
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001790 seconds, Stopping threads took: 0.0001153 seconds
+[2019-06-24T14:07:59.432+0000][1][safepoint    ] Application time: 0.0000704 seconds
+[2019-06-24T14:07:59.441+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.441+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.441+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0090397 seconds, Stopping threads took: 0.0088672 seconds
+[2019-06-24T14:07:59.489+0000][1][safepoint    ] Application time: 0.0477380 seconds
+[2019-06-24T14:07:59.501+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.501+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.501+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0121167 seconds, Stopping threads took: 0.0119774 seconds
+[2019-06-24T14:07:59.505+0000][1][safepoint    ] Application time: 0.0037994 seconds
+[2019-06-24T14:07:59.505+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.505+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.505+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001284 seconds, Stopping threads took: 0.0000228 seconds
+[2019-06-24T14:07:59.513+0000][1][safepoint    ] Application time: 0.0077995 seconds
+[2019-06-24T14:07:59.517+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.517+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.517+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0041322 seconds, Stopping threads took: 0.0039939 seconds
+[2019-06-24T14:07:59.521+0000][1][safepoint    ] Application time: 0.0038039 seconds
+[2019-06-24T14:07:59.529+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.529+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.529+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0081470 seconds, Stopping threads took: 0.0080057 seconds
+[2019-06-24T14:07:59.533+0000][1][safepoint    ] Application time: 0.0037776 seconds
+[2019-06-24T14:07:59.533+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.533+0000][1][gc,start     ] GC(19) Pause Young (Allocation Failure)
+[2019-06-24T14:07:59.533+0000][1][gc,task      ] GC(19) Using 5 workers of 8 for evacuation
+[2019-06-24T14:07:59.578+0000][1][gc,age       ] GC(19) Desired survivor size 4456448 bytes, new threshold 2 (max threshold 6)
+[2019-06-24T14:07:59.578+0000][1][gc,age       ] GC(19) Age table with threshold 2 (max threshold 6)
+[2019-06-24T14:07:59.578+0000][1][gc,age       ] GC(19) - age   1:    2785368 bytes,    2785368 total
+[2019-06-24T14:07:59.578+0000][1][gc,age       ] GC(19) - age   2:    3955600 bytes,    6740968 total
+[2019-06-24T14:07:59.578+0000][1][gc,age       ] GC(19) - age   3:     203944 bytes,    6944912 total
+[2019-06-24T14:07:59.578+0000][1][gc,heap      ] GC(19) ParNew: 74587K->8469K(78656K)
+[2019-06-24T14:07:59.578+0000][1][gc,heap      ] GC(19) CMS: 55987K->55987K(174784K)
+[2019-06-24T14:07:59.578+0000][1][gc,metaspace ] GC(19) Metaspace: 47090K->47090K(1093632K)
+[2019-06-24T14:07:59.578+0000][1][gc           ] GC(19) Pause Young (Allocation Failure) 127M->62M(247M) 44.498ms
+[2019-06-24T14:07:59.578+0000][1][gc,cpu       ] GC(19) User=0.08s Sys=0.00s Real=0.04s
+[2019-06-24T14:07:59.578+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.578+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0447495 seconds, Stopping threads took: 0.0000241 seconds
+[2019-06-24T14:07:59.581+0000][1][safepoint    ] Application time: 0.0031933 seconds
+[2019-06-24T14:07:59.581+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.581+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.581+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001477 seconds, Stopping threads took: 0.0000322 seconds
+[2019-06-24T14:07:59.585+0000][1][safepoint    ] Application time: 0.0037840 seconds
+[2019-06-24T14:07:59.585+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.585+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.585+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001535 seconds, Stopping threads took: 0.0000227 seconds
+[2019-06-24T14:07:59.600+0000][1][safepoint    ] Application time: 0.0151006 seconds
+[2019-06-24T14:07:59.615+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.615+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.615+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0142105 seconds, Stopping threads took: 0.0140355 seconds
+[2019-06-24T14:07:59.617+0000][1][safepoint    ] Application time: 0.0023970 seconds
+[2019-06-24T14:07:59.617+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:59.618+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.618+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003558 seconds, Stopping threads took: 0.0001643 seconds
+[2019-06-24T14:07:59.618+0000][1][safepoint    ] Application time: 0.0002313 seconds
+[2019-06-24T14:07:59.618+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.618+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.618+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001339 seconds, Stopping threads took: 0.0000708 seconds
+[2019-06-24T14:07:59.618+0000][1][safepoint    ] Application time: 0.0000899 seconds
+[2019-06-24T14:07:59.620+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.620+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.620+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0021023 seconds, Stopping threads took: 0.0019806 seconds
+[2019-06-24T14:07:59.620+0000][1][safepoint    ] Application time: 0.0000802 seconds
+[2019-06-24T14:07:59.620+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.620+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.620+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001253 seconds, Stopping threads took: 0.0000459 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Application time: 0.0000617 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000858 seconds, Stopping threads took: 0.0000129 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Application time: 0.0000609 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000804 seconds, Stopping threads took: 0.0000115 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Application time: 0.0000666 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000849 seconds, Stopping threads took: 0.0000132 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Application time: 0.0000620 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001059 seconds, Stopping threads took: 0.0000119 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Application time: 0.0000764 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001035 seconds, Stopping threads took: 0.0000142 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Application time: 0.0000647 seconds
+[2019-06-24T14:07:59.621+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000950 seconds, Stopping threads took: 0.0000140 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Application time: 0.0000621 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000873 seconds, Stopping threads took: 0.0000123 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Application time: 0.0000615 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000862 seconds, Stopping threads took: 0.0000131 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Application time: 0.0000619 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000835 seconds, Stopping threads took: 0.0000125 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Application time: 0.0000601 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000813 seconds, Stopping threads took: 0.0000124 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Application time: 0.0000628 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000847 seconds, Stopping threads took: 0.0000126 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Application time: 0.0000614 seconds
+[2019-06-24T14:07:59.622+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000807 seconds, Stopping threads took: 0.0000122 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Application time: 0.0000603 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000832 seconds, Stopping threads took: 0.0000123 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Application time: 0.0000621 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000834 seconds, Stopping threads took: 0.0000124 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Application time: 0.0000645 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000826 seconds, Stopping threads took: 0.0000116 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Application time: 0.0000606 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000830 seconds, Stopping threads took: 0.0000120 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Application time: 0.0000611 seconds
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.623+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000875 seconds, Stopping threads took: 0.0000125 seconds
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Application time: 0.0000642 seconds
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000849 seconds, Stopping threads took: 0.0000123 seconds
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Application time: 0.0000667 seconds
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.624+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001788 seconds, Stopping threads took: 0.0000131 seconds
+[2019-06-24T14:07:59.629+0000][1][safepoint    ] Application time: 0.0052736 seconds
+[2019-06-24T14:07:59.629+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.629+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.629+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001557 seconds, Stopping threads took: 0.0000243 seconds
+[2019-06-24T14:07:59.633+0000][1][safepoint    ] Application time: 0.0036777 seconds
+[2019-06-24T14:07:59.635+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.635+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.635+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002102 seconds, Stopping threads took: 0.0000898 seconds
+[2019-06-24T14:07:59.637+0000][1][safepoint    ] Application time: 0.0018279 seconds
+[2019-06-24T14:07:59.637+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.637+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.637+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001359 seconds, Stopping threads took: 0.0000219 seconds
+[2019-06-24T14:07:59.653+0000][1][safepoint    ] Application time: 0.0157833 seconds
+[2019-06-24T14:07:59.671+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.671+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.671+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0182167 seconds, Stopping threads took: 0.0181195 seconds
+[2019-06-24T14:07:59.673+0000][1][safepoint    ] Application time: 0.0017529 seconds
+[2019-06-24T14:07:59.673+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.673+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.673+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001395 seconds, Stopping threads took: 0.0000233 seconds
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Application time: 0.0004229 seconds
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001076 seconds, Stopping threads took: 0.0000153 seconds
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Application time: 0.0002475 seconds
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001289 seconds, Stopping threads took: 0.0000363 seconds
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Application time: 0.0000660 seconds
+[2019-06-24T14:07:59.674+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000807 seconds, Stopping threads took: 0.0000135 seconds
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Application time: 0.0000523 seconds
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000893 seconds, Stopping threads took: 0.0000160 seconds
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Application time: 0.0000657 seconds
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000723 seconds, Stopping threads took: 0.0000115 seconds
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Application time: 0.0004428 seconds
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.675+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000919 seconds, Stopping threads took: 0.0000150 seconds
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Application time: 0.0001546 seconds
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000824 seconds, Stopping threads took: 0.0000133 seconds
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Application time: 0.0004349 seconds
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001024 seconds, Stopping threads took: 0.0000155 seconds
+[2019-06-24T14:07:59.676+0000][1][safepoint    ] Application time: 0.0001980 seconds
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000838 seconds, Stopping threads took: 0.0000131 seconds
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Application time: 0.0005678 seconds
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001737 seconds, Stopping threads took: 0.0000589 seconds
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Application time: 0.0000881 seconds
+[2019-06-24T14:07:59.677+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001052 seconds, Stopping threads took: 0.0000125 seconds
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Application time: 0.0001308 seconds
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000995 seconds, Stopping threads took: 0.0000135 seconds
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Application time: 0.0000677 seconds
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000912 seconds, Stopping threads took: 0.0000119 seconds
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Application time: 0.0003018 seconds
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.678+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001091 seconds, Stopping threads took: 0.0000141 seconds
+[2019-06-24T14:07:59.680+0000][1][safepoint    ] Application time: 0.0018171 seconds
+[2019-06-24T14:07:59.680+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.680+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.681+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001461 seconds, Stopping threads took: 0.0000188 seconds
+[2019-06-24T14:07:59.685+0000][1][safepoint    ] Application time: 0.0048406 seconds
+[2019-06-24T14:07:59.709+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.709+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.709+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0239493 seconds, Stopping threads took: 0.0238068 seconds
+[2019-06-24T14:07:59.709+0000][1][safepoint    ] Application time: 0.0001172 seconds
+[2019-06-24T14:07:59.710+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.710+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.710+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001056 seconds, Stopping threads took: 0.0000148 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Application time: 0.0028968 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001329 seconds, Stopping threads took: 0.0000173 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Application time: 0.0000699 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000899 seconds, Stopping threads took: 0.0000117 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Application time: 0.0000640 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000844 seconds, Stopping threads took: 0.0000112 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Application time: 0.0000765 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000865 seconds, Stopping threads took: 0.0000144 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Application time: 0.0000681 seconds
+[2019-06-24T14:07:59.713+0000][1][safepoint    ] Entering safepoint region: BulkRevokeBias
+[2019-06-24T14:07:59.714+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.714+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001750 seconds, Stopping threads took: 0.0000114 seconds
+[2019-06-24T14:07:59.714+0000][1][safepoint    ] Application time: 0.0002873 seconds
+[2019-06-24T14:07:59.714+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:07:59.714+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:07:59.714+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000986 seconds, Stopping threads took: 0.0000122 seconds
+[2019-06-24T14:08:00.201+0000][1][safepoint    ] Application time: 0.4874027 seconds
+[2019-06-24T14:08:00.209+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:00.209+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:00.209+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0079709 seconds, Stopping threads took: 0.0078211 seconds
+[2019-06-24T14:08:00.217+0000][1][safepoint    ] Application time: 0.0080132 seconds
+[2019-06-24T14:08:00.217+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:00.218+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:00.218+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000871 seconds, Stopping threads took: 0.0000239 seconds
+[2019-06-24T14:08:00.580+0000][1][safepoint    ] Application time: 0.3623854 seconds
+[2019-06-24T14:08:00.583+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:00.583+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:00.583+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002897 seconds, Stopping threads took: 0.0001220 seconds
+[2019-06-24T14:08:00.583+0000][1][safepoint    ] Application time: 0.0000732 seconds
+[2019-06-24T14:08:00.583+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:00.583+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:00.583+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001079 seconds, Stopping threads took: 0.0000165 seconds
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Application time: 0.1935366 seconds
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001338 seconds, Stopping threads took: 0.0000656 seconds
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Application time: 0.0000820 seconds
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000813 seconds, Stopping threads took: 0.0000395 seconds
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Application time: 0.0000698 seconds
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:00.777+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000929 seconds, Stopping threads took: 0.0000386 seconds
+[2019-06-24T14:08:01.226+0000][1][safepoint    ] Application time: 0.4485951 seconds
+[2019-06-24T14:08:01.226+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.226+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.226+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002031 seconds, Stopping threads took: 0.0000749 seconds
+[2019-06-24T14:08:01.226+0000][1][safepoint    ] Application time: 0.0000724 seconds
+[2019-06-24T14:08:01.233+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.233+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.233+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0072666 seconds, Stopping threads took: 0.0071767 seconds
+[2019-06-24T14:08:01.241+0000][1][safepoint    ] Application time: 0.0079063 seconds
+[2019-06-24T14:08:01.241+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.242+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.242+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001952 seconds, Stopping threads took: 0.0001254 seconds
+[2019-06-24T14:08:01.505+0000][1][safepoint    ] Application time: 0.2635947 seconds
+[2019-06-24T14:08:01.505+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.505+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.505+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001312 seconds, Stopping threads took: 0.0000241 seconds
+[2019-06-24T14:08:01.627+0000][1][safepoint    ] Application time: 0.1217412 seconds
+[2019-06-24T14:08:01.627+0000][1][safepoint    ] Entering safepoint region: GenCollectForAllocation
+[2019-06-24T14:08:01.627+0000][1][gc,start     ] GC(20) Pause Young (Allocation Failure)
+[2019-06-24T14:08:01.627+0000][1][gc,task      ] GC(20) Using 5 workers of 8 for evacuation
+[2019-06-24T14:08:01.682+0000][1][gc,age       ] GC(20) Desired survivor size 4456448 bytes, new threshold 6 (max threshold 6)
+[2019-06-24T14:08:01.682+0000][1][gc,age       ] GC(20) Age table with threshold 6 (max threshold 6)
+[2019-06-24T14:08:01.682+0000][1][gc,age       ] GC(20) - age   1:    1566648 bytes,    1566648 total
+[2019-06-24T14:08:01.682+0000][1][gc,age       ] GC(20) - age   2:    2725904 bytes,    4292552 total
+[2019-06-24T14:08:01.682+0000][1][gc,heap      ] GC(20) ParNew: 78421K->7162K(78656K)
+[2019-06-24T14:08:01.682+0000][1][gc,heap      ] GC(20) CMS: 55987K->60171K(174784K)
+[2019-06-24T14:08:01.682+0000][1][gc,metaspace ] GC(20) Metaspace: 53532K->53532K(1097728K)
+[2019-06-24T14:08:01.683+0000][1][gc           ] GC(20) Pause Young (Allocation Failure) 131M->65M(247M) 55.208ms
+[2019-06-24T14:08:01.683+0000][1][gc,cpu       ] GC(20) User=0.10s Sys=0.00s Real=0.06s
+[2019-06-24T14:08:01.683+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.683+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0554543 seconds, Stopping threads took: 0.0000511 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Application time: 0.0030083 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001177 seconds, Stopping threads took: 0.0000548 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Application time: 0.0000737 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000784 seconds, Stopping threads took: 0.0000380 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Application time: 0.0000756 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000765 seconds, Stopping threads took: 0.0000387 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Application time: 0.0000674 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000745 seconds, Stopping threads took: 0.0000374 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Application time: 0.0000774 seconds
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:01.686+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000737 seconds, Stopping threads took: 0.0000365 seconds
+[2019-06-24T14:08:02.259+0000][1][safepoint    ] Application time: 0.5725433 seconds
+[2019-06-24T14:08:02.263+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:02.264+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:02.264+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0044826 seconds, Stopping threads took: 0.0039159 seconds
+[2019-06-24T14:08:02.390+0000][1][safepoint    ] Application time: 0.1259981 seconds
+[2019-06-24T14:08:02.390+0000][1][safepoint    ] Entering safepoint region: Deoptimize
+[2019-06-24T14:08:02.390+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:02.390+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0008049 seconds, Stopping threads took: 0.0000591 seconds
+[2019-06-24T14:08:02.482+0000][1][safepoint    ] Application time: 0.0911521 seconds
+[2019-06-24T14:08:02.482+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:02.482+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:02.482+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001695 seconds, Stopping threads took: 0.0000277 seconds
+[2019-06-24T14:08:02.485+0000][1][safepoint    ] Application time: 0.0034013 seconds
+[2019-06-24T14:08:02.485+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:02.485+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:02.485+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001482 seconds, Stopping threads took: 0.0000280 seconds
+[2019-06-24T14:08:02.486+0000][1][safepoint    ] Application time: 0.0001908 seconds
+[2019-06-24T14:08:02.486+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:02.486+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:02.486+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000878 seconds, Stopping threads took: 0.0000150 seconds
+[2019-06-24T14:08:02.499+0000][1][safepoint    ] Application time: 0.0133592 seconds
+[2019-06-24T14:08:02.499+0000][1][safepoint    ] Entering safepoint region: RevokeBias
+[2019-06-24T14:08:02.499+0000][1][safepoint    ] Leaving safepoint region
+[2019-06-24T14:08:02.499+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001135 seconds, Stopping threads took: 0.0000246 seconds
